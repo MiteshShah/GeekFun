@@ -2,6 +2,7 @@ name: Geek Fun
 markdown: redcarpet
 highlighter: true
 permalink: /:year/:month/:title/
+ssl:              #true
 url:
 # Site owner
 owner:

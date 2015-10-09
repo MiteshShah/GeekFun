@@ -12,6 +12,13 @@
     <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/demo.css" />
     <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/component.css" />
     <script src="{{ site.url }}/js/modernizr.custom.js"></script>
+    {% if site.ssl %}
+      <!-- redirect users to the https version of the production website.-->
+       <script type="text/javascript">
+        if (window.location.protocol != "https:")
+          window.location = window.location.toString().replace(/^http:/, "https:");
+      </script>
+    {% endif %}
   </head>
   <body>
   {% include _ads.html %}
