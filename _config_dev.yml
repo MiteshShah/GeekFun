@@ -1,0 +1,36 @@
+name: Geek Fun
+markdown: redcarpet
+highlighter: true
+permalink: /:year/:month/:title/
+url:
+# Site owner
+owner:
+  name: Mitesh Shah
+  gravatar: c66f52f78607be93acdf5904c88066ee
+  bio: "Linux System Administrator"
+  email: Mr.Miteshah@gmail.com
+  disqus-shortname: MiteshShah
+  twitter: MiteshShah05
+  facebook:
+  google:
+    plus: MiteshShah
+    analytics: UA-63994692-1
+    verify: FoXagY8w0AGl6VevPdl9TSY2iEl0MVKdxXfmBSxDeYg
+    ad-client: ca-pub-6968542502687754
+    ad-slot: 2903128824
+  bing-verify: 26843270EDBB68F6D6D696C81DF38DC2
+  github: MiteshShah
+  stackoverflow: 2199313/Mitesh-Shah
+  linkedin: MiteshShah05
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username

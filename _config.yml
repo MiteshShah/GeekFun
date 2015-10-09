@@ -1,0 +1,8 @@
+name: Geek Fun
+markdown: redcarpet
+highlighter: true
+permalink: /:year/:month/:title/
+url:
+author:
+    name: Mitesh Shah
+    twitter: MiteshShah05
